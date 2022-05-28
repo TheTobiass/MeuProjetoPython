@@ -1,2 +1,6 @@
 print ("Hello Word")
 print ("Aula 3")
+
+valor=10
+if valor <= 10:
+   print("Teste")
