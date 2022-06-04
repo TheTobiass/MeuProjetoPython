@@ -1,12 +1,10 @@
-<<<<<<< HEAD
 print("Hello Word")
 print("Aula 3")
 print("Teste")
-=======
-print ("Hello Word")
-print ("Aula 3")
+print ("Nova linha")
 
 valor=10
 if valor <= 10:
    print("Teste")
->>>>>>> condicional
+
+
