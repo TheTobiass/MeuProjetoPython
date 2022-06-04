@@ -2,7 +2,7 @@ print("Hello Word")
 print("Aula 3")
 print("Teste")
 print ("Nova linha")
-print ("Teste2")
+print ("Teste")
 
 valor=10
 if valor <= 10:
